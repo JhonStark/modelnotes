@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'SofiaProLight';
+    src: url('fonts/SofiaProLight.eot');
+    src: url('fonts/SofiaProLight.eot') format('embedded-opentype'),
+         url('fonts/SofiaProLight.woff2') format('woff2'),
+         url('fonts/SofiaProLight.woff') format('woff'),
+         url('fonts/SofiaProLight.ttf') format('truetype'),
+         url('fonts/SofiaProLight.svg#SofiaProLight') format('svg');
+}
